@@ -4,5 +4,4 @@ npm-debug.log
 dist
 build
 .idea
-rollup.config.js
 _files
